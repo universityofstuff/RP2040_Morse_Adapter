@@ -1,0 +1,25 @@
+Parts Used
+
+3-Pack RP2040-Zero Board, Dual-Core Cortex M0+, Pico
+https://amzn.to/4h0cllo
+
+5Pcs 3.5mm TRS Female Stereo Audio Jack Breakout Board
+https://amzn.to/4qV9n59
+
+BNTECHGO 20 AWG Magnet Wire
+https://amzn.to/4cP8C7Q
+
+
+Stereo Jack:
+1 Sleeve/GND
+2 Ring
+5 TIP
+
+Note:
+When unplugged the stereo jack pins 4 + 5 short to one another. Not needed for this project, just information.
+
+RP2040 pin 14 to jack pin 5 (tip) ~1" magnet wire
+RP2040 pin 15 to jack pin 2 (ring) ~3/4" magnet wire
+RP2040 pin GND to jack pin 1 (sleeve) ~3/4" magnet wire
+
+Use fingernail file to remove enamel from wire at ends
