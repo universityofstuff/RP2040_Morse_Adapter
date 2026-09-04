@@ -1,3 +1,5 @@
+This full build is detailed with pictures on https://universityofstuff.com/amateur-radio/morse-code/vband-keyer-interface-using-rp2040/
+
 Connect a RP2040 Zero to your computer, and install any drivers necessary for it to work.
 
 Once the RP2040 Zero shows up as a drive on your computer, if you are using the same waveshare RP2040 Zero
